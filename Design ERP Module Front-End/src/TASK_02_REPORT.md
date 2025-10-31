@@ -247,7 +247,3 @@ The frontend implementation demonstrates these business processes through a user
 
 ---
 
-**Prepared by**: [Your Name]  
-**Date**: October 31, 2024  
-**Course**: ERP Systems  
-**Task**: Week 2 - Business Process Analysis
