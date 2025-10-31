@@ -2,7 +2,7 @@
 
 All notable changes to the NSBM Green University Student Records ERP System.
 
-## [1.0.0] - 2024-10-31
+
 
 ### Added
 - Complete role-based access control system
@@ -96,6 +96,4 @@ All notable changes to the NSBM Green University Student Records ERP System.
 
 ---
 
-**Version**: 1.0.0  
-**Release Date**: October 31, 2024  
-**Status**: Stable
+
