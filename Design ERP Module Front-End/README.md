@@ -1,7 +1,7 @@
 
   #  ERP  Front-End
 
- This was made using Figam. The original project is available at https://www.figma.com/design/XPqEciFnm7tSgeozvbvrGO/Design-ERP-Module-Front-End.
+ This was made using Figma. The original project is available at https://www.figma.com/design/XPqEciFnm7tSgeozvbvrGO/Design-ERP-Module-Front-End.
 
   ## Running the code
 
