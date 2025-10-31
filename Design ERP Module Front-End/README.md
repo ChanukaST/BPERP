@@ -1,7 +1,7 @@
 
-  # Design ERP Module Front-End
+  #  ERP  Front-End
 
-  This is a code bundle for Design ERP Module Front-End. The original project is available at https://www.figma.com/design/XPqEciFnm7tSgeozvbvrGO/Design-ERP-Module-Front-End.
+ This was made using Figam. The original project is available at https://www.figma.com/design/XPqEciFnm7tSgeozvbvrGO/Design-ERP-Module-Front-End.
 
   ## Running the code
 
